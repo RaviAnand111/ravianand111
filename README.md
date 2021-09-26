@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on My Development Skills.
 - 🌱 I’m currently learning Web Development and DSA
 - 👯 I’m looking to collaborate on Web Development.
